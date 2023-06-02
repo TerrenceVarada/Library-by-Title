@@ -20,7 +20,7 @@ run.py 需要配置的参数是 cluster_search（是否搜索聚类参数）和 
 4. move_files 将书籍按照 cluster 的结果进行移动；
 
 # 局限
-本项目用的模型是 ChatGLM-6B。这里对ChatGLM-6B和ChatGPT的结果做个展示
+本项目用的模型是 ChatGLM-6B。这里对ChatGLM-6B和ChatGPT的结果做个展示。实际这本书是日本作家加藤谛三写的，两个模型都出现了编答案的现象，但是从聚类结果来看，还是能把这本书和其他心理类书籍分到一起。
 
 ### Q: 概括《不乖》这本书说了什么
 ## ChatGLM-6B
