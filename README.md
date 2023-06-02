@@ -18,3 +18,9 @@ run.py 需要配置的参数是 cluster_search（是否搜索聚类参数）和 
 2. get_embedding 产出书名概要和概要的embedding；
 3. get_cluster 产出书籍归类明细及每个cluster的中心点 index；
 4. move_files 将书籍按照 cluster 的结果进行移动；
+
+# Reference
+
+1. [5 Levels Of Summarization - Novice To Expert](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/5%20Levels%20Of%20Summarization%20-%20Novice%20To%20Expert.ipynb)
+2. [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
+3. [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
